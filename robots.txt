@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freefire-apk.github.io/sitemap.xml
